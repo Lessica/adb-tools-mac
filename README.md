@@ -1,5 +1,7 @@
 # adb-tools-mac
 
+This is a public fork of [adb-tools-mac](https://github.com/naman14/adb-tools-mac) with prebuilt universal (x86_64, arm64) adb binary.
+
 adb-tools-mac is a macOS menu bar app written in SwiftUI for common adb tools.
 
 <img src="https://raw.githubusercontent.com/naman14/adb-tools-mac/master/screenshots/screen1.png" width="500" >
